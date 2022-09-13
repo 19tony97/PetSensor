@@ -1,0 +1,7 @@
+Dear {name},
+
+This is an automated message generated from your vheicle security system.
+It has been detected an high temperature that could be unsafe for your pets!
+
+Sensors detected values:
+	Temperature: {temperature} °C
