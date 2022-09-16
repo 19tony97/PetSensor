@@ -7,5 +7,4 @@ The cryptography was implemented using the Python **SSL library** and **PyCrypto
 
 
 # Demo
-https://www.youtube.com/watch?v=JOmymME5hnE
-
+[Video Demo](https://www.youtube.com/watch?v=JOmymME5hnE)
